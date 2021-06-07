@@ -1,2 +1,2 @@
 # Android-app-Bird-Tracking
-Android app 
+An Android app for tracking birds
